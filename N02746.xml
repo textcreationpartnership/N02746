@@ -111,8 +111,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:003266_0000_0FF02F1AFB4DA400"/>
-            <pb facs="tcp:003266_0001_0FF02F1CCD16B540"/>
+            <pb facs="unknown:003266_0000_0FF02F1AFB4DA400"/>
+            <pb facs="unknown:003266_0001_0FF02F1CCD16B540"/>
             <p>
                <hi>SOTWEED REDIVIVUS:</hi> Or the PLANTERS Looking-Glaſs. In Burleſque Verſe. Calculated for the Meridian of <hi>MARYLAND.</hi>
             </p>
@@ -128,13 +128,13 @@
                <hi>ANNAPOLIS:</hi> Printed by WILLIAM PARKS, for the Author. M.DCC.XXX.</p>
          </div>
          <div type="preface">
-            <pb facs="tcp:003266_0002_0FF02F1FACB37B40"/>
-            <pb facs="tcp:003266_0003_0FF02F22542A1FE8"/>
+            <pb facs="unknown:003266_0002_0FF02F1FACB37B40"/>
+            <pb facs="unknown:003266_0003_0FF02F22542A1FE8"/>
             <head>THE PREFACE TO THE READER.</head>
             <p>MAY I be canoniz'd for a Saint, if I know what Apology to make for this dull Piece of Houſe<g ref="char:EOLhyphen"/>hold Stuff, any more than he that firſt invented the <hi>Horn-Book;</hi> all that can be ſaid in its Defence, is, the <hi>Muſes</hi> hath taken as much Pains in framing their brit<g ref="char:EOLhyphen"/>tle Ware, as <hi>Bruin</hi> does in licking her Cubs into Shape: And ſhould that carping Cur, <hi>Momus,</hi> but breath on it, <hi>(vah! miſeris,)</hi> we are quite undone; ſince one Blaſt from the Critick's Mouth, wou'd raiſe more Flaws in this <hi>Looking-Glaſs,</hi> than there be Circles in the <hi>Sphere;</hi> and when all is ſaid and done, the <hi>Reader</hi> will judge juſt as he pleaſes. Well, if it be the Fate of theſe Sheets, to ſupply the Uſe of Waſte Paper, the <hi>Author</hi> has done his Part, and is determined to write on, as often as his Inclination or Intereſt ſhall prompt him.</p>
          </div>
          <div type="poem">
-            <pb facs="tcp:003266_0004_0FF02F23DDF47CD0"/>
+            <pb facs="unknown:003266_0004_0FF02F23DDF47CD0"/>
             <head>TO THE Generous SUBSCRIBERS, &amp;c.</head>
             <lg>
                <l>
@@ -180,7 +180,7 @@
                   <hi>Cut down for Fuel by unthinking Swains.</hi>
                </l>
                <l>
-                  <pb n="v" facs="tcp:003266_0005_0FF02F294552EA40"/>
+                  <pb n="v" facs="unknown:003266_0005_0FF02F294552EA40"/>
                   <hi>At Ax and Hoe, like Negroe Aſſes tug,</hi>
                </l>
                <l>
@@ -234,7 +234,7 @@
                <l>Great-Britain'<hi>s Channel, and in Caſh abound:</hi>
                </l>
                <l>
-                  <pb n="vi" facs="tcp:003266_0006_0FF02F2CB535F6A8"/>
+                  <pb n="vi" facs="unknown:003266_0006_0FF02F2CB535F6A8"/>
                   <hi>The only beſt Expedient that remains,</hi>
                </l>
                <l>
@@ -286,7 +286,7 @@
                <l>
                   <hi>A candid Thought on this, his</hi> Looking-Glaſs.</l>
                <l>
-                  <pb n="vii" facs="tcp:003266_0007_0FF02F2E49190A60"/>
+                  <pb n="vii" facs="unknown:003266_0007_0FF02F2E49190A60"/>
                   <hi>Such kind Encouragement to</hi> Poeſy <hi>give,</hi>
                </l>
                <l>
@@ -339,7 +339,7 @@
                   <hi>As did</hi> Arachne, <hi>'till ſhe had her Doom;</hi>
                </l>
                <l>
-                  <pb n="viii" facs="tcp:003266_0008_0FF02F30EFDEB320"/>
+                  <pb n="viii" facs="unknown:003266_0008_0FF02F30EFDEB320"/>
                   <hi>Improve each Minute at the</hi> Flaxen <hi>Wheel,</hi>
                </l>
                <l>
@@ -388,7 +388,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:003266_0009_0FF02F3611A48290"/>
+            <pb facs="unknown:003266_0009_0FF02F3611A48290"/>
             <head>THE LOOKING-GLASS.</head>
             <div n="1" type="canto">
                <lg>
@@ -406,7 +406,7 @@
                   <l>And ſpurring <hi>Jack,</hi> no Danger fear'd;</l>
                   <l>Within the City Walls appear'd,</l>
                   <l>
-                     <pb n="2" facs="tcp:003266_0010_0FF02F3822A69EE8"/>
+                     <pb n="2" facs="unknown:003266_0010_0FF02F3822A69EE8"/>
 As <hi>AEthon,</hi> Courſer of the Sun,</l>
                   <l>Had half his Race exactly run;</l>
                   <l>There having firſt ſecur'd my Prancer,</l>
@@ -430,7 +430,7 @@ As <hi>AEthon,</hi> Courſer of the Sun,</l>
                   <l>Our <hi>Publick Dues</hi> and <hi>Clergy pay.</hi>
                   </l>
                   <l>
-                     <pb n="3" facs="tcp:003266_0011_0FF02F3B0A9E9508"/>
+                     <pb n="3" facs="unknown:003266_0011_0FF02F3B0A9E9508"/>
 Grown Worldly wiſe, unwilling are,</l>
                   <l>To be put off with Neighbours Fare;</l>
                   <l>Hold <hi>Predial Tythes,</hi> ſecure in Bags,</l>
@@ -455,7 +455,7 @@ Grown Worldly wiſe, unwilling are,</l>
                   <l>In Tan-Pit coin'd, or Paper-Mill,</l>
                   <l>That muſt the hungry Belly fill,</l>
                   <l>
-                     <pb n="4" facs="tcp:003266_0012_0FF02F40AD4510C8"/>
+                     <pb n="4" facs="unknown:003266_0012_0FF02F40AD4510C8"/>
 When ſummon'd to attend the Court,</l>
                   <l>Held at the Magiſterial Port.</l>
                </lg>
@@ -477,7 +477,7 @@ When ſummon'd to attend the Court,</l>
                   <l>Suppose a Statute Law was made,</l>
                   <l>For the Encouragement of Trade;</l>
                   <l>
-                     <pb n="5" facs="tcp:003266_0013_0FF02F425D9C23A0"/>
+                     <pb n="5" facs="unknown:003266_0013_0FF02F425D9C23A0"/>
 And Men of various Occupations,</l>
                   <l>Within his Majeſty's Plantations,</l>
                   <l>That <hi>Copper Money, Tin,</hi> or <hi>Braſs,</hi>
@@ -499,7 +499,7 @@ And Men of various Occupations,</l>
                   </l>
                   <l>Whereat I grew inquiſitive,</l>
                   <l>
-                     <pb n="6" facs="tcp:003266_0014_0FF02F4547255880"/>
+                     <pb n="6" facs="unknown:003266_0014_0FF02F4547255880"/>
 To know the Meaning of ſuch Clamour;</l>
                   <l>Says One, in Drink, that made him ſtammer,</l>
                   <l>The Reaſon's this, if you muſt know it,</l>
@@ -523,7 +523,7 @@ To know the Meaning of ſuch Clamour;</l>
                   <l>And meeting with young Politicians,</l>
                   <l>Dull antiquated State Phyſicians;</l>
                   <l>
-                     <pb n="7" facs="tcp:003266_0015_0FF02F496DC41850"/>
+                     <pb n="7" facs="unknown:003266_0015_0FF02F496DC41850"/>
 Repleniſhing their thirſty Souls</l>
                   <l>With Lemon Punch, in flowing Bowls.</l>
                   <l>Not waiting long for Invitation;</l>
@@ -545,7 +545,7 @@ Repleniſhing their thirſty Souls</l>
                   <l>For ſuch an odd contriv'd Intention,</l>
                   <l>As e'er was laid before Convention:</l>
                   <l>
-                     <pb n="8" facs="tcp:003266_0016_0FF02F4C479FC458"/>
+                     <pb n="8" facs="unknown:003266_0016_0FF02F4C479FC458"/>
 Alledging, <hi>Planters,</hi> when in drink,</l>
                   <l>Wou'd light their Pipes with Paper Chink;</l>
                   <l>And knowing not to read, might be</l>
@@ -567,7 +567,7 @@ Alledging, <hi>Planters,</hi> when in drink,</l>
                   <l>Curious to know from whence he came,</l>
                   <l>I boldly crav'd his Worſhip's Name.</l>
                   <l>
-                     <pb n="9" facs="tcp:003266_0017_0FF02F4ED284F398"/>
+                     <pb n="9" facs="unknown:003266_0017_0FF02F4ED284F398"/>
 And tho' the <hi>Don</hi> at firſt ſeem'd ſly,</l>
                   <l>At length he made this ſmart Reply.</l>
                </lg>
@@ -590,7 +590,7 @@ And tho' the <hi>Don</hi> at firſt ſeem'd ſly,</l>
                   <l>But finding the Mullatto fled,</l>
                   <l>To Chimney Nook, her native Bed;</l>
                   <l>
-                     <pb n="10" facs="tcp:003266_0018_0FF02F5088888648"/>
+                     <pb n="10" facs="unknown:003266_0018_0FF02F5088888648"/>
 And Night far ſpent, we thought it beſt,</l>
                   <l>To let the <hi>AEthiopian</hi> reſt:</l>
                   <l>So gravely fell to Argument,</l>
@@ -613,7 +613,7 @@ And Night far ſpent, we thought it beſt,</l>
                   <l>Leaving behind, to raiſe up Seed,</l>
                   <l>And tend a ſtinking <hi>Indian</hi> Weed,</l>
                   <l>
-                     <pb n="11" facs="tcp:003266_0019_0FF02F56F79F3260"/>
+                     <pb n="11" facs="unknown:003266_0019_0FF02F56F79F3260"/>
                      <hi>Scotch, Engliſh,</hi> and <hi>Hybernians</hi> wild,</l>
                   <l>From Sloth and Idleneſs exil'd.</l>
                   <l>
@@ -639,7 +639,7 @@ And Night far ſpent, we thought it beſt,</l>
                   <l>To naked Brats Subſiſtance give.</l>
                </lg>
                <lg>
-                  <pb n="12" facs="tcp:003266_0020_0FF02F58885623D8"/>
+                  <pb n="12" facs="unknown:003266_0020_0FF02F58885623D8"/>
                   <l>THESE petty Charges not a few,</l>
                   <l>With Subſidies both old and new,</l>
                   <l>As Factors tell us, run ſo high,</l>
@@ -661,7 +661,7 @@ And Night far ſpent, we thought it beſt,</l>
                   <l>When Pride ambitious is to ſhine,</l>
                   <l>In gaudy Feathers rich and fine,</l>
                   <l>
-                     <pb n="13" facs="tcp:003266_0021_0FF02F5B2C762FD8"/>
+                     <pb n="13" facs="unknown:003266_0021_0FF02F5B2C762FD8"/>
 Than in coarſe Goods lay out their Tubs,</l>
                   <l>With Merchants here, unleſs 'tis Scrubs:</l>
                   <l>Has put them on their Guard, for why?</l>
@@ -683,7 +683,7 @@ Than in coarſe Goods lay out their Tubs,</l>
                   <l>It's true, we may this Thread of Life</l>
                   <l>Spin out, in Penury and Strife;</l>
                   <l>
-                     <pb n="14" facs="tcp:003266_0022_0FF02F5CC2B413E0"/>
+                     <pb n="14" facs="unknown:003266_0022_0FF02F5CC2B413E0"/>
 Like <hi>AEſop'</hi>s Swain, did <hi>Jove</hi> deſire</l>
                   <l>To help his Cart out of the Mire;</l>
                   <l>To <hi>Jupiter</hi> at laſt apply,</l>
@@ -704,7 +704,7 @@ Like <hi>AEſop'</hi>s Swain, did <hi>Jove</hi> deſire</l>
                   <l>As e're was water'd by the <hi>Nile,</hi>
                   </l>
                   <l>
-                     <pb n="15" facs="tcp:003266_0023_0FF02F61CC96E680"/>
+                     <pb n="15" facs="unknown:003266_0023_0FF02F61CC96E680"/>
 Has luckily fell to our Share;</l>
                   <l>Yet maugre all our ſeeming Care:</l>
                   <l>We Strangers to the Goddeſs are.</l>
@@ -726,7 +726,7 @@ Has luckily fell to our Share;</l>
                   </l>
                   <l>I will another <hi>Scheme</hi> advance,</l>
                   <l>
-                     <pb n="16" facs="tcp:003266_0024_0FF02F64ECCC23C0"/>
+                     <pb n="16" facs="unknown:003266_0024_0FF02F64ECCC23C0"/>
 Will do, ſays the projecting <hi>Don:</hi>
                   </l>
                   <l>And thus in ſerious Tone went on.</l>
@@ -753,7 +753,7 @@ Will do, ſays the projecting <hi>Don:</hi>
                   <l>Which is the Buſineſs of the <hi>Hive,</hi>
                   </l>
                   <l>
-                     <pb n="17" facs="tcp:003266_0025_0FF02F668685C8D8"/>
+                     <pb n="17" facs="unknown:003266_0025_0FF02F668685C8D8"/>
 We ought conveniently to dwell</l>
                   <l>In <hi>Towns</hi> and <hi>Cities,</hi> buy and ſell</l>
                   <l>Our Merchandize at publick Scales.</l>
@@ -774,7 +774,7 @@ We ought conveniently to dwell</l>
                   <l>By Merchants, that the ſame Export,</l>
                   <l>In Bills, before it quits the Port.</l>
                   <l>
-                     <pb n="18" facs="tcp:003266_0026_0FF02F6AB8D92190"/>
+                     <pb n="18" facs="unknown:003266_0026_0FF02F6AB8D92190"/>
 But what is worſt for <hi>Patent</hi> Lands,</l>
                   <l>By others held, it Debtor ſtands.</l>
                </lg>
@@ -797,7 +797,7 @@ But what is worſt for <hi>Patent</hi> Lands,</l>
                   <l>But what is ſo, to ſpeak the Truth,</l>
                   <l>Does not agree with every Tooth;</l>
                   <l>
-                     <pb n="19" facs="tcp:003266_0027_0FF02F6C46085B78"/>
+                     <pb n="19" facs="unknown:003266_0027_0FF02F6C46085B78"/>
 Nor will the ſtricteſt penal Laws,</l>
                   <l>Contriv'd by Stateſmen, ſtrike the Cauſe.</l>
                </lg>
@@ -823,7 +823,7 @@ Nor will the ſtricteſt penal Laws,</l>
                </lg>
             </div>
             <div n="3" type="canto">
-               <pb n="20" facs="tcp:003266_0028_0FF02F6F45442CD0"/>
+               <pb n="20" facs="unknown:003266_0028_0FF02F6F45442CD0"/>
                <head>CANTO III.</head>
                <lg>
                   <l>SCARCE had the <hi>Goddeſs</hi> of the <hi>Night,</hi>
@@ -843,7 +843,7 @@ Nor will the ſtricteſt penal Laws,</l>
                   <l>If <hi>Planters</hi> wou'd be rul'd by me,</l>
                   <l>I will their beſt Phyſician be:</l>
                   <l>
-                     <pb n="21" facs="tcp:003266_0029_0FF02F725AD65898"/>
+                     <pb n="21" facs="unknown:003266_0029_0FF02F725AD65898"/>
 Preſcribe the Means, wou'd, I am ſure,</l>
                   <l>If rightly apply'd, work a Cure.</l>
                </lg>
@@ -867,7 +867,7 @@ Preſcribe the Means, wou'd, I am ſure,</l>
                   <l>The <hi>Hides</hi> will for their Grazing pay,</l>
                   <l>And <hi>Wool</hi> Misfortunes keep in Play,</l>
                   <l>
-                     <pb n="22" facs="tcp:003266_0030_0FF02F781FC03C20"/>
+                     <pb n="22" facs="unknown:003266_0030_0FF02F781FC03C20"/>
 Of thoſe, muſt either work or ſtarve,</l>
                   <l>Oblig'd for Wife and Bearns to carve:</l>
                   <l>
@@ -890,7 +890,7 @@ Of thoſe, muſt either work or ſtarve,</l>
                   <l>On t'other Side the <hi>Herring-Pond,</hi>
                   </l>
                   <l>
-                     <pb n="23" facs="tcp:003266_0031_0FEFDA9A0E018E58"/>
+                     <pb n="23" facs="unknown:003266_0031_0FEFDA9A0E018E58"/>
 Their pick'd and cull'd <hi>Tobacco</hi> ſend,</l>
                   <l>In weighty Cask, to ſome ſly Friend,</l>
                   <l>Unleſs in Veſſels of their own,</l>
@@ -912,7 +912,7 @@ Their pick'd and cull'd <hi>Tobacco</hi> ſend,</l>
                   <l>Of Sailing, by <hi>Mercator'</hi>s Chart<g ref="char:punc">▪</g>
                   </l>
                   <l>
-                     <pb n="24" facs="tcp:003266_0032_0FF02F7B2DF3EE68"/>
+                     <pb n="24" facs="unknown:003266_0032_0FF02F7B2DF3EE68"/>
 The Woods with <hi>Timber Trees</hi> abound;</l>
                   <l>Near <hi>North-Eaſt, Iron</hi> may be found,</l>
                   <l>The beſt that ever yet was made,</l>
@@ -933,7 +933,7 @@ The Woods with <hi>Timber Trees</hi> abound;</l>
                   <l>Can ne'er think to grow Rich and Great,</l>
                   <l>But by an Independant State;</l>
                   <l>
-                     <pb n="25" facs="tcp:003266_0033_0FF02F7F763263C0"/>
+                     <pb n="25" facs="unknown:003266_0033_0FF02F7F763263C0"/>
 Or hope to thrive, unleſs we try,</l>
                   <l>With Canvas Wings abroad to fly.</l>
                   <l>We then about the World might roam;</l>
@@ -957,7 +957,7 @@ Or hope to thrive, unleſs we try,</l>
                   <l>Unleſs, by Act of Limitation,</l>
                   <l>We cou'd make <hi>Maryland</hi> its Station:</l>
                   <l>
-                     <pb n="26" facs="tcp:003266_0034_0FF02F81022729A8"/>
+                     <pb n="26" facs="unknown:003266_0034_0FF02F81022729A8"/>
 Oblige it like the conſtant <hi>Sun,</hi>
                   </l>
                   <l>Beyond its <hi>Tropicks</hi> not to run,</l>
@@ -982,7 +982,7 @@ Oblige it like the conſtant <hi>Sun,</hi>
                   <l>Upon <hi>Mercator</hi> turn the Tables,</l>
                   <l>And cut thoſe Interlopers Cables.</l>
                   <l>
-                     <pb n="27" facs="tcp:003266_0035_0FF02F83EF4C17E0"/>
+                     <pb n="27" facs="unknown:003266_0035_0FF02F83EF4C17E0"/>
 In Neighbouring Barks, export your Grain</l>
                   <l>To Iſlands in the <hi>Weſtern</hi> Main.</l>
                </lg>
@@ -1006,7 +1006,7 @@ In Neighbouring Barks, export your Grain</l>
                   <l>Said I to him, ſeem'd much diſguis'd;</l>
                   <l>His Counſel's not to be deſpis'd,</l>
                   <l>
-                     <pb n="28" facs="tcp:003266_0036_0FF02F79A73546F8"/>
+                     <pb n="28" facs="unknown:003266_0036_0FF02F79A73546F8"/>
 Begin, be bold, old <hi>Horace</hi> cries,</l>
                   <l>And bravely venture to be wiſe.</l>
                   <l>In vain, he on the Brook Side ſtands,</l>
